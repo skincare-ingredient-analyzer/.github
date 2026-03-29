@@ -101,31 +101,24 @@ Ingredients are reclassified into six categories by combining:
   <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-5.0.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-4.4.5-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-1.13.1-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-5.0.8-764ABC?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-5.90.7-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router_Dom-7.9.5-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-1.13.2-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router_Dom-7.10.0-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </p>
-
 <p>
-  <img src="https://img.shields.io/badge/MUI-7.3.5-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-7.3.6-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Emotion-11.x-DB7093?style=for-the-badge&logo=emotion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mantine_Carousel-8.3.8-339AF0?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-3.4.1-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embla_Carousel-8.6.0-888888?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Kakao_Maps_SDK-1.2.0-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-12.5.0-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Recharts-3.5.1-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/html2canvas-1.4.1-4CAF50?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsPDF-3.0.4-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-3.5.7-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Framework-6.2.12-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA%20/%20Hibernate-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lombok-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-4.21.0-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 
 ### Database
@@ -133,24 +126,7 @@ Ingredients are reclassified into six categories by combining:
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
-### Security
-<p>
-  <img src="https://img.shields.io/badge/Spring_Security-6.5.6-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-FF7F00?style=for-the-badge&logo=openid&logoColor=white" />
-</p>
-
-### 외부 API
-<p>
-  <img src="https://img.shields.io/badge/KOPIS_API-0B5FFF?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kakao_Maps_API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <br/>
-  + 기타 소셜 로그인 및 외부 연동 API
-</p>
-
 ### DevOps / Infra / 배포
-
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
